@@ -3,7 +3,7 @@ description: "A customizable alert dialog for Flutter that adapts to both Androi
 homepage: https://github.com/badiniibrahim/flutter_adaptive_dialog
 repository: https://github.com/badiniibrahim/flutter_adaptive_dialog
 
-version: 1.0.0+1
+version: 1.0.0
 
 environment:
   sdk: ^3.5.3

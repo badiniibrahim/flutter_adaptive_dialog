@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_adaptive_dialog/adaptive_alert_dialog_page.dart';
+import 'package:flutter_adaptive_dialog/flutter_adaptive_dialog.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
