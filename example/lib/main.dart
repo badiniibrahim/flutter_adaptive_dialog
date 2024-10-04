@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_adaptive_dialog/adaptive_alert_dialog_page.dart';
+import 'package:flutter_adaptive_dialog/flutter_adaptive_dialog.dart';
 
 void main() {
   runApp(const MyApp());
